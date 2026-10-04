@@ -1,6 +1,6 @@
 # LeafSense AI: Crop Disease Detection Prototype
 
-LeafSense AI is a modern, high-precision plant disease detection system built using Deep Learning. This prototype demonstrates how AI can be leveraged for early disease identification in agriculture.
+🌱 Deep learning model that detects plant leaf diseases from images with 99.78% validation accuracy.
 
 ## 🚀 Features
 - **AI-Powered Diagnostics**: Detects diseases like Early Blight, Late Blight, and Rust with high confidence.
